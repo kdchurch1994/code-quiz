@@ -14,4 +14,4 @@ https://kdchurch1994.github.io/code-quiz/
 ## Contribution
 Made by Kyle Church
 
-![Image of Website] (./assets/images/CodeQuiz.PNG)
+![Image of Website] (/assets/images/CodeQuiz.PNG)
