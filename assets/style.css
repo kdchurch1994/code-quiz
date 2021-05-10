@@ -8,7 +8,6 @@ html,body{
   #highScores div div{
     padding: 5px;
     font-weight:600;
-    color: black;
   }
   
   #highScores div div:nth-child(odd){
@@ -39,8 +38,6 @@ html,body{
   
   
   .info{
-    max-width:980px;
-    margin: 0 auto;
     color: white;
     display:flex;
     justify-content: space-between;
